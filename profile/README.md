@@ -1,6 +1,4 @@
-<img src="https://github.com/techlore/channel-content/blob/master/Assets/2022%20Cover%20Art.jpg" width="420">
-
-Techlore was built to prove privacy & security are not just achievable - but simple and accessible. We manage several projects, communities, and content to spread privacy & security to the masses.
+*Techlore was built to prove privacy & security are not just achievable - but simple and accessible. We manage several projects, communities, and content to spread privacy & security to the masses.*
 
 ## Who Are We?
 - [Henry](https://hen.omg.lol/) - Runner, coach, artist, musician, book nerd, & privacy advocate. Owner of Techlore.
