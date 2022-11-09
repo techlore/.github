@@ -10,4 +10,4 @@
 
 - [YouTube](https://youtube.com/techlore)
 - [Odysee](https://odysee.com/@techlore:3)
-- [PeerTube](https://bitcointv.com/c/techlore/videos)
+- [PeerTube](https://tilvids.com/c/techlore_channel/videos)
