@@ -5,9 +5,3 @@
 - [Tori](https://tori.omg.lol/) - Coffee addict, bookworm, writer, productivity nerd, privacy advocate, and perpetually contemplating existence.
 - [Jonah](https://jonah.omg.lol/) - Technology educator, writer, community expert, gamer (of the tabletop variety), and resident self-hosting shill.
 - [Suzie](https://suzie.omg.lol/) - Gamer, wannabe tech nerd, anime enthusiast, manga and book lover, partner that Nate Bartram always talks about.
-
-## Where Do We Post Content?
-
-- [YouTube](https://youtube.com/techlore)
-- [Odysee](https://odysee.com/@techlore:3)
-- [PeerTube](https://tilvids.com/c/techlore_channel/videos)
