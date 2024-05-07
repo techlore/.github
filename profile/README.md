@@ -1,4 +1,4 @@
-[**Techlore**](https://techlore.tech) is a small team educating people about digital rights, privacy, security, digital control, and other important topics to push the world towards a safer internet. We envision a world where technology works for us, not against us—and we want to prove to people they can make a real impact for themselves and others.
+[**Techlore**](https://techlore.tech) is educating people about digital rights, privacy, security, digital control, and other important topics to push the world towards a safer internet. We envision a world where technology works for us, not against us—and we want to prove to people they can make a real impact for themselves and others.
 
 ## Who Are We?
 
