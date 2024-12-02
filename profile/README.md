@@ -1,4 +1,4 @@
-*[**Techlore**](https://youtube.com/@techlore) was built to prove privacy & security are not just achievable - but simple and accessible. We manage several projects, communities, and content to spread privacy & security to the masses.*
+[**Techlore**](https://techlore.tech) is educating people about digital rights, privacy, security, digital control, and other important topics to push the world towards a safer internet. We envision a world where technology works for us, not against us—and we want to prove to people they can make a real impact for themselves and others.
 
 ## Who Are We?
 
