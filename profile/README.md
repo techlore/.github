@@ -4,8 +4,6 @@
 
 [![Website](https://img.shields.io/badge/Website-techlore.tech-blue?style=for-the-badge&logo=firefox-browser)](https://techlore.tech)
 [![YouTube](https://img.shields.io/badge/YouTube-@techlore-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@techlore)
-[![Forum](https://img.shields.io/badge/Forum-discuss.techlore.tech-purple?style=for-the-badge&logo=discourse)](https://discuss.techlore.tech)
-[![Patreon](https://img.shields.io/badge/Patreon-techlore-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/techlore)
 [![PeerTube](https://img.shields.io/badge/PeerTube-techlore.tv-orange?style=for-the-badge&logo=peertube)](https://techlore.tv/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@techlore@social.lol-6364FF?style=for-the-badge&logo=mastodon)](https://social.lol/@techlore)
 [![Twitter](https://img.shields.io/badge/Twitter-@TechloreInc-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/TechloreInc)
